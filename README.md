@@ -76,10 +76,9 @@ This pattern is increasingly relevant for:
 
 ## Files in This Repo
 
-.
-├── Agentic_RAG.ipynb
-├── agentic_rag.py
-└── README.md
+Agentic_RAG.ipynb
+agentic_rag.py
+README.md
 
 ---
 
